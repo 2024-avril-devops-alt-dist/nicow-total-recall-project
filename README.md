@@ -1,8 +1,8 @@
 # FIRST STEPS
 
 You can find here differents files about my work on conception for the total recall project : 
-- MCD (png file)
-- MLD (png)
+- [MCD](./MCD.png)
+- [MLD](./MLD.png)
 - MPD and data dictionnary (open it in browser)
 - SQL (sql file)
 
