@@ -14,6 +14,9 @@ Class diagram :
 
 ![Class Diagram](./Class_Diagram.png)  
 
+Sequence diagram :   
+
+![Sequence Diagram](./Sequence_Diagram.png) 
 
 [MPD and data dictionnary](https://raw.githack.com/2024-avril-devops-alt-dist/nicow-total-recall-project/main/MPD_dictionnary.html)  
 
