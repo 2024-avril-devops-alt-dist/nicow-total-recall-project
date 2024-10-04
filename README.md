@@ -10,5 +10,5 @@ If you can't access them, use the links below can help a lot.
 
 # LINKS
 
-- Dictionnary / MPD : https://docs.google.com/spreadsheets/d/1P7VuC5tU57I0yT8wnqwRSdMj5GCcc4rt_mBVD0b08hg/edit?usp=sharing
-- UML : https://app.diagrams.net/#G1ltGjXupSwFz5HJiRpev0LIibiMEKLNyt#%7B%22pageId%22%3A%22yEuKhnbrucBsLHYmK0H8%22%7D  
+- [Dictionnary / MPD](https://docs.google.com/spreadsheets/d/1P7VuC5tU57I0yT8wnqwRSdMj5GCcc4rt_mBVD0b08hg/edit?usp=sharing)
+- [UML](https://drive.google.com/file/d/1ltGjXupSwFz5HJiRpev0LIibiMEKLNyt/view?usp=sharing)
