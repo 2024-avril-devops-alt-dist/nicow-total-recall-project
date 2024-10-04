@@ -3,7 +3,7 @@
 You can find here differents files about my work on conception for the total recall project : 
 - [MCD](./MCD.png)
 - [MLD](./MLD.png)
-- [MPD and data dictionnary](./MPD_dictionnary.html) (may need to clone repo before seeing it)
+- [MPD and data dictionnary](https://raw.githack.com/2024-avril-devops-alt-dist/nicow-total-recall-project/main/MPD_dictionnary.html) (may need to clone repo before seeing it) https://github.com/2024-avril-devops-alt-dist
 - [SQL](./db.sql)
 
 If you can't access them, use the links below can help a lot.
