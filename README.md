@@ -6,6 +6,7 @@ Hi, you're on my conception project for Total Recall.
 
 ## User  
 Minimalist, basic connection info & phone number / notification if he wants it.  
+One user, a lot of booking (we hope).
 
 ## Booking  
 In my project, you need to be connected to book a trip. So user_id is required.  
@@ -24,7 +25,7 @@ A stopover is different than a flight. You come to a stopover destination, and g
 Sometimes, you won't go out of the airplane.  So we need the location, and the datetime.  
 
 ## Passenger  
-Passengers are not users, the won't connect, we just need basic info about them to checkout their identities.
+Passengers are not users, they won't connect, we just need basic info about them to checkout their identities.
 
 
 # DELIVERY
