@@ -3,7 +3,7 @@
 You can find here differents files about my work on conception for the total recall project : 
 - MCD
 - MLD
-- MPD
+- MPD and data dictionnary (open it in browser)
 - SQL
 
 # LINKS
